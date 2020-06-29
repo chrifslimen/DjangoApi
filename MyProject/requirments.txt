@@ -1,0 +1,14 @@
+cffi==1.14.0
+cryptography==2.9.2
+Django==2.2.13
+django-cors-headers==3.4.0
+django-extensions==2.2.9
+django-sslserver==0.22
+djangorestframework==3.11.0
+Pillow==7.1.2
+pycparser==2.20
+pyOpenSSL==19.1.0
+pytz==2020.1
+six==1.15.0
+sqlparse==0.3.1
+Werkzeug==1.0.1
